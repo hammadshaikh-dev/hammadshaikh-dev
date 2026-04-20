@@ -1,8 +1,12 @@
  <h1 align="center">Hi 👋, I'm Hammad Shaikh</h1>
+🤖 AI-Enhanced Workflow: I use AI tools to optimize Dockerfiles, debug Kubernetes manifests, and accelerate troubleshooting.
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me anything about Flutter 
+🚀 Currently Mastering: Docker & Kubernetes orchestration with a focus on high availability.
+
+🛠️ Hands-on experience: Containerizing applications and managing scalable K8s clusters.
+
+🔭 Goal: To bridge the gap between Dev and Ops using cutting-edge automation and AI assistants.
+
 - 📫 How to reach me: 0331hammad@gmail.com
   
 ### Connect with me:
